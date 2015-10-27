@@ -1,4 +1,5 @@
 # EmbeddedUnitTest
-Embedded UnitTest 
+* Embedded UnitTest 
 
-BackToTheFutureCar.jpg
+# 환경설정
+* CppUTest 설치 - http://cpputest.github.io/
